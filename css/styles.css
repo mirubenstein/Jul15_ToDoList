@@ -1,0 +1,62 @@
+
+h3 {
+  padding-left: 18px;
+
+}
+
+ul {
+  list-style-type: none;
+  padding:0 !important;
+}
+
+.jumbotron {
+  background-color: #411E57;
+  color:#F9F0E7;
+}
+.block {
+  height:200px;
+  background:#009E8E;
+  border:2px solid #009E8E;
+  color:#F9F0E7;
+}
+
+#listContainer{
+}
+
+.list input {
+  background:#eee;
+  color:#444;
+  font-size:1.4em;
+    line-height: 2em;
+    border-bottom:4px solid #666;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+}
+
+.task input {
+  background:#eee;
+  color:#444;
+  font-size:1.4em;
+  border:none !important;
+  border-bottom:3px solid #666;
+}
+
+.hider {
+  display:none;
+}
+
+#taskComplete .task-entry{
+  background: #ddd;
+  color:#aaa;
+  position:relative;
+  bottom:0;
+}
+
+.items {
+  font-size:1.4em;
+  background:#333;
+  border-bottom:#3F9655;
+  padding:0 18px 0 18px;
+  line-height:1.8em;
+}
